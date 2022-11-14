@@ -138,7 +138,7 @@ $$rms \geq av$$
 
 ### Ripple Factor
 
-$$\gamma=√({F.F}^2-1 \times 100\%$$
+$$\gamma=√({F.F}^2-1) \times 100\%$$
 $$\gamma=√({1.57}^2-1) \times 100\%=1.21\%$$
 
 Efficiency:It is defined as ratio of dc power available at the load to the input ac power.
