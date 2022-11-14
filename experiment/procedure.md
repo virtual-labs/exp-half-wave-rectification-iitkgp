@@ -1,7 +1,7 @@
 ### Procedure
 
 
-1. Set the resistor $$R_L$$.
+1. Set the resistor R<sub>L</sub>.
 2. Click on 'ON' button to start the experiment.
 3. Click on 'Sine Wave' button to generate input waveform
 4. Click on 'Oscilloscope' button to get the rectified output.
