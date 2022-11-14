@@ -1,39 +1,30 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the Ripple factor of a half wave rectifier?",
+        "answers": {
+          "a": "0.31",
+          "b": "0.48",
+          "c": "0.707",
+          "d": "1.21"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (c). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+      
+          
+       
+       
+      
+
+    ]
+  }
+  
