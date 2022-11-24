@@ -59,24 +59,24 @@ Diode is forward biased, acts as a short circuit, passes the waveform through.
 
 
 
-For positive half cycle: $$V_I - V_b - I \times r_d - I \times R=0$$ where,
-$$V_I$$ is the input voltage,
-$$V_b$$ is barrier potential,
-$$r_d$$ is diode resistance,
-$$I$$ is total current,
-$$R$$ is resistance
+For positive half cycle: $$V_I - V_b - I \times r_d - I \times R=0$$ 
+where,
+V<sub>I</sub> is the input voltage, <br/>
+V<sub>b</sub> is barrier potential, <br/>
+r<sub>d</sub> is diode resistance, <br/>
+I is total current,<br/>
+R is resistance <br/>
 $$I=\frac{V_I - V_b}{r_d + R}$$
 $$V_O = I \times R$$
 $$V_O =\frac{V_I - V_b}{r_d + R} \times R$$
-For \(r_d\)<< \(R\),
+For r<sub>d</sub><< R,
 $$V_O = V_I- V_b$$
-$$V_b$$ is 0.3 for Germanium ,
-$$V_b$$ is 0.7 for Silicon
+V<sub>b</sub> is 0.3 for Germanium , <br/>
+V<sub>b</sub> is 0.7 for Silicon <br/>
 
-For $$V_I < V_b$$,
+For V<sub>I</sub> < V<sub>b</sub>,
 
-The diode will remain OFF.The Output voltage will be,
-$$V_O =0$$
+The diode will remain OFF.The Output voltage will be, V<sub>O</sub> =0
 For $$V_I > V_b $$,
 
 The diode will be ON.The Output voltage will be,
@@ -99,17 +99,11 @@ $$V_O=0 \quad Since, \quad I =0$$
 
 ### Half wave Rectification:For an Ideal Diode
 
-For Ideal Diode,
+For Ideal Diode, V<sub>b</sub> = 0
 
-$$V_b = 0$$
+For positive half cycle, V<sub>O</sub> = V<sub>I</sub>
 
-For positive half cycle,
-
-$$V_O = V_I$$
-
-For negative half cycle,
-
-$$V_O = 0$$
+For negative half cycle, V<sub>O</sub> = 0
 
 ### Average output voltage
 
