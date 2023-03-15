@@ -1,0 +1,43 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The peak applied signal voltage is Vm then for a half wave rectifier circuit the PIV(Peak Inverse Volatge) of the diode should be:",
+      "answers": {
+        "a": ">2Vm",
+        "b": "<=2Vm",
+        "c": ">=2Vm",
+        "d": "<2Vm"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d": "You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An ideal Si diode is used in a half wave rectifier circuit with peak input sinusoidal signal amplitude of 5V (Vm = 5V & VT = 0.7V). The average dc voltage is",
+      "answers": {
+        "a": "<1.27 V",
+        "b": "=1.37 V",
+        "c": ">1.87 V "
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect"
+        
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+    
+    
+    
+    
+  ]
+}
