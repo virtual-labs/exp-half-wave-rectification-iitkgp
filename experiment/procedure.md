@@ -11,7 +11,7 @@
 8. Calculate the Ripple Factor.Theoretical Ripple Factor= 1.21.
 
 <div align="center">
-<img src="images/halfwvckt.png" width="50%">
+<img src="images/halfwvckt.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
