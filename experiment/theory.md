@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="images/halfwaverc.png" width="30%">
+<img src="images/halfwaverc.png" style="max-width:100%; height:auto;">
 <p>Figure 1  </p>
 </div>
 A rectifier is a device that converts alternating current (AC) to direct current (DC), a process known as rectification. Rectifiers are essentially of two types – a half wave rectifier and a full wave rectifier.
@@ -16,7 +16,7 @@ A rectifier is a device that converts alternating current (AC) to direct current
 
 
 <div align="center">
-<img src="images/halfwvrecpn.png" width="30%">
+<img src="images/halfwvrecpn.png" style="max-width:100%; height:auto;">
 <p>Figure 2  </p>
 </div>
 On the positive cycle the diode is forward biased and on the negative cycle the diode is reverse biased. By using a diode we have converted an AC source into a pulsating DC source. In summary we have ‘rectified’ the AC signal.
@@ -24,7 +24,7 @@ On the positive cycle the diode is forward biased and on the negative cycle the 
 
 
 <div align="center">
-<img src="images/halfwave.png" width="30%">
+<img src="images/halfwave.png" style="max-width:100%; height:auto;">
 <p>Figure 3  </p>
 </div>
 
@@ -33,11 +33,11 @@ The simplest kind of rectifier circuit is the half-wave rectifier.The half-wave 
 ### Half Wave Rectifiers – Waveforms
 
 <div align="center">
-<img src="images/halfwv1.png" width="30%">
+<img src="images/halfwv1.png" style="max-width:100%; height:auto;">
 <p>Figure 4  </p>
 </div>
 <div align="center">
-<img src="images/halfwv2.png" width="30%">
+<img src="images/halfwv2.png" style="max-width:100%; height:auto;">
 <p>Figure 5  </p>
 </div>
 
@@ -51,7 +51,7 @@ $$V_{dc}=\frac{V_{peak}}{Π}$$
 
 
 <div align="center">
-<img src="images/halfwvrecp.png" width="30%">
+<img src="images/halfwvrecp.png" style="max-width:100%; height:auto;">
 <p>Figure 6  </p>
 </div>
 
@@ -85,7 +85,7 @@ $$V_O = V_I- V_b$$
 
 ### Half Wave Rectification:For Negative Half Cycle
 <div align="center">
-<img src="images/halfwvrecn.png" width="30%">
+<img src="images/halfwvrecn.png" style="max-width:100%; height:auto;">
 <p>Figure 7  </p>
 </div>
 
