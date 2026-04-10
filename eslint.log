@@ -1,0 +1,662 @@
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/cktconnection.js
+    1:1   warning  'jsPlumb' is not defined                       no-undef
+    6:9   warning  'addDisc' is assigned a value but never used   no-unused-vars
+    8:17  warning  'e' is assigned a value but never used         no-unused-vars
+   15:9   warning  'reset' is assigned a value but never used     no-unused-vars
+   28:48  warning  'e' is defined but never used                  no-unused-vars
+   28:51  warning  'ui' is defined but never used                 no-unused-vars
+   30:21  warning  'jsPlumb' is not defined                       no-undef
+   72:16  warning  'jsPlumb' is not defined                       no-undef
+   81:13  warning  'e1' is assigned a value but never used        no-unused-vars
+   82:13  warning  'e3' is assigned a value but never used        no-unused-vars
+   83:13  warning  'e4' is assigned a value but never used        no-unused-vars
+   84:13  warning  'e5' is assigned a value but never used        no-unused-vars
+   85:13  warning  'e6' is assigned a value but never used        no-unused-vars
+   86:13  warning  'e7' is assigned a value but never used        no-unused-vars
+   87:13  warning  'e8' is assigned a value but never used        no-unused-vars
+   88:13  warning  'e9' is assigned a value but never used        no-unused-vars
+   91:13  warning  'e12' is assigned a value but never used       no-unused-vars
+   93:13  warning  'clearBtn' is assigned a value but never used  no-unused-vars
+   93:24  warning  'jsPlumb' is not defined                       no-undef
+   94:13  warning  'addBtn' is assigned a value but never used    no-unused-vars
+   94:22  warning  'jsPlumb' is not defined                       no-undef
+   96:28  warning  'jsPlumb' is not defined                       no-undef
+   99:17  warning  'jsPlumbUtil' is not defined                   no-undef
+  110:5   warning  'jsPlumb' is not defined                       no-undef
+  285:13  warning  'count' is assigned a value but never used     no-unused-vars
+  426:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  427:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  428:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  429:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  430:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  444:10  warning  'deleteconnection' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/cktconnection_halfwv.js
+    1:1   warning  'jsPlumb' is not defined                       no-undef
+    6:9   warning  'addDisc' is assigned a value but never used   no-unused-vars
+    8:17  warning  'e' is assigned a value but never used         no-unused-vars
+   15:9   warning  'reset' is assigned a value but never used     no-unused-vars
+   28:48  warning  'e' is defined but never used                  no-unused-vars
+   28:51  warning  'ui' is defined but never used                 no-unused-vars
+   30:21  warning  'jsPlumb' is not defined                       no-undef
+   88:16  warning  'jsPlumb' is not defined                       no-undef
+   97:13  warning  'e1' is assigned a value but never used        no-unused-vars
+   98:13  warning  'e3' is assigned a value but never used        no-unused-vars
+   99:13  warning  'e4' is assigned a value but never used        no-unused-vars
+  100:13  warning  'e5' is assigned a value but never used        no-unused-vars
+  101:13  warning  'e6' is assigned a value but never used        no-unused-vars
+  102:13  warning  'e7' is assigned a value but never used        no-unused-vars
+  103:13  warning  'e8' is assigned a value but never used        no-unused-vars
+  104:13  warning  'e9' is assigned a value but never used        no-unused-vars
+  105:13  warning  'e12' is assigned a value but never used       no-unused-vars
+  107:13  warning  'clearBtn' is assigned a value but never used  no-unused-vars
+  107:24  warning  'jsPlumb' is not defined                       no-undef
+  108:13  warning  'addBtn' is assigned a value but never used    no-unused-vars
+  108:22  warning  'jsPlumb' is not defined                       no-undef
+  110:28  warning  'jsPlumb' is not defined                       no-undef
+  113:17  warning  'jsPlumbUtil' is not defined                   no-undef
+  124:5   warning  'jsPlumb' is not defined                       no-undef
+  281:13  warning  'count' is assigned a value but never used     no-unused-vars
+  406:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  407:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  408:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  409:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  423:10  warning  'deleteconnection' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/graph.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/graph_use.ob.js
+  1:103  warning  'drawgraph' is defined but never used  no-unused-vars
+  1:163  warning  'CanvasJS' is not defined              no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/halfwave.js
+   38:10  warning  'mainswt' is defined but never used                 no-unused-vars
+  133:10  warning  'sliderChange' is defined but never used            no-unused-vars
+  147:10  warning  'psychnge' is defined but never used                no-unused-vars
+  161:10  warning  'phasesld' is defined but never used                no-unused-vars
+  176:10  warning  'freqnc' is defined but never used                  no-unused-vars
+  223:9   warning  'i' is already defined                              no-redeclare
+  251:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  287:10  warning  'sliderChng' is defined but never used              no-unused-vars
+  301:10  warning  'posychnge' is defined but never used               no-unused-vars
+  316:10  warning  'phaseslds' is defined but never used               no-unused-vars
+  331:10  warning  'frequencychng' is defined but never used           no-unused-vars
+  350:9   warning  'pst' is assigned a value but never used            no-unused-vars
+  447:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  507:9   warning  'i' is already defined                              no-redeclare
+  559:9   warning  'j' is already defined                              no-redeclare
+  559:12  warning  'x0' is already defined                             no-redeclare
+  559:16  warning  'y0' is already defined                             no-redeclare
+  559:20  warning  'xscale' is already defined                         no-redeclare
+  559:28  warning  'yscale' is already defined                         no-redeclare
+  628:10  warning  'bthd' is defined but never used                    no-unused-vars
+  689:9   warning  'i' is already defined                              no-redeclare
+  717:9   warning  'pst' is assigned a value but never used            no-unused-vars
+  741:12  warning  'x0' is already defined                             no-redeclare
+  741:16  warning  'y0' is already defined                             no-redeclare
+  741:20  warning  'xscale' is already defined                         no-redeclare
+  741:28  warning  'yscale' is already defined                         no-redeclare
+  742:9   warning  'xp1' is defined but never used                     no-unused-vars
+  742:14  warning  'yp1' is defined but never used                     no-unused-vars
+  809:10  warning  'grnds' is defined but never used                   no-unused-vars
+  864:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  875:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  876:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  951:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/halfwaverect_ver2.js
+   12:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   18:10  warning  'posiy2chnge' is defined but never used  no-unused-vars
+   28:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   31:9   warning  'drawsine' is not defined                no-undef
+   40:10  warning  'ampfng' is defined but never used       no-unused-vars
+   43:9   warning  'drawsine' is not defined                no-undef
+   50:9   warning  'bthdhlfrc' is not defined               no-undef
+   53:8   warning  'grndhlfrc' is not defined               no-undef
+   57:10  warning  'freqfng' is defined but never used      no-unused-vars
+   60:9   warning  'drawsine' is not defined                no-undef
+   66:9   warning  'bthdhlfrc' is not defined               no-undef
+   69:8   warning  'grndhlfrc' is not defined               no-undef
+   76:5   warning  'canvas' is not defined                  no-undef
+   77:17  warning  'canvas' is not defined                  no-undef
+   77:28  warning  'canvas' is not defined                  no-undef
+   79:5   warning  'ctx' is not defined                     no-undef
+   79:11  warning  'canvas' is not defined                  no-undef
+   81:5   warning  'ctx' is not defined                     no-undef
+   82:5   warning  'ctx' is not defined                     no-undef
+   82:24  warning  'canvas' is not defined                  no-undef
+   82:38  warning  'canvas' is not defined                  no-undef
+   87:5   warning  'drawGrid' is not defined                no-undef
+   87:14  warning  'ctx' is not defined                     no-undef
+   88:5   warning  'drawAxis' is not defined                no-undef
+   90:6   warning  'peakcurrent' is not defined             no-undef
+  117:9   warning  'i' is already defined                   no-redeclare
+  124:5   warning  'ctx' is not defined                     no-undef
+  125:5   warning  'ctx' is not defined                     no-undef
+  126:5   warning  'ctx' is not defined                     no-undef
+  136:13  warning  'ctx' is not defined                     no-undef
+  138:13  warning  'ctx' is not defined                     no-undef
+  141:5   warning  'ctx' is not defined                     no-undef
+  142:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/halfwv1.js
+   10:10  warning  'startng' is defined but never used                 no-unused-vars
+   49:10  warning  'sliderChange' is defined but never used            no-unused-vars
+   63:10  warning  'psychnge' is defined but never used                no-unused-vars
+   77:10  warning  'phasesld' is defined but never used                no-unused-vars
+   91:10  warning  'freqnc' is defined but never used                  no-unused-vars
+  138:9   warning  'i' is already defined                              no-redeclare
+  166:10  warning  'chnlo' is defined but never used                   no-unused-vars
+  196:10  warning  'sliderChng' is defined but never used              no-unused-vars
+  217:10  warning  'posychnge' is defined but never used               no-unused-vars
+  239:10  warning  'phaseslds' is defined but never used               no-unused-vars
+  266:9   warning  'pst' is assigned a value but never used            no-unused-vars
+  289:21  warning  'N' is not defined                                  no-undef
+  308:21  warning  'thick' is not defined                              no-undef
+  309:23  warning  'color' is not defined                              no-undef
+  364:10  warning  'chnlt' is defined but never used                   no-unused-vars
+  413:9   warning  'x0' is already defined                             no-redeclare
+  413:17  warning  'x1' is already defined                             no-redeclare
+  413:17  warning  'x1' is assigned a value but never used             no-unused-vars
+  414:13  warning  'y0' is already defined                             no-redeclare
+  414:21  warning  'y1' is already defined                             no-redeclare
+  424:10  warning  'z' is not defined                                  no-undef
+  424:17  warning  'z' is not defined                                  no-undef
+  424:36  warning  'z' is not defined                                  no-undef
+  428:29  warning  'z' is not defined                                  no-undef
+  430:30  warning  'z' is not defined                                  no-undef
+  435:10  warning  'bthd' is defined but never used                    no-unused-vars
+  467:9   warning  'x0' is already defined                             no-redeclare
+  467:17  warning  'x1' is already defined                             no-redeclare
+  467:17  warning  'x1' is assigned a value but never used             no-unused-vars
+  468:13  warning  'y0' is already defined                             no-redeclare
+  468:21  warning  'y1' is already defined                             no-redeclare
+  490:10  warning  'z' is not defined                                  no-undef
+  490:17  warning  'z' is not defined                                  no-undef
+  490:36  warning  'z' is not defined                                  no-undef
+  494:29  warning  'z' is not defined                                  no-undef
+  496:30  warning  'z' is not defined                                  no-undef
+  502:10  warning  'grnds' is defined but never used                   no-unused-vars
+  553:1   warning  'axistop' is assigned a value but never used        no-unused-vars
+  564:9   warning  'axislinewidth' is assigned a value but never used  no-unused-vars
+  565:9   warning  'axiscolor' is assigned a value but never used      no-unused-vars
+  664:10  warning  'printf' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/halfwvgrnd_ver2.js
+   13:5   warning  'vmaxs' is defined but never used            no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used      no-unused-vars
+   19:9   warning  'drawsine' is not defined                    no-undef
+   22:7   warning  'bthdhlfrc' is not defined                   no-undef
+   29:10  warning  'posiy2chnge' is defined but never used      no-unused-vars
+   33:8   warning  'drawhlfrectifier' is not defined            no-undef
+   36:9   warning  'bthdhlfrc' is not defined                   no-undef
+   44:10  warning  'posix2chnge' is defined but never used      no-unused-vars
+   47:9   warning  'drawsine' is not defined                    no-undef
+   50:11  warning  'drawhlfrectifier' is not defined            no-undef
+   50:30  warning  Unnecessary semicolon                        no-extra-semi
+   53:8   warning  'bthdhlfrc' is not defined                   no-undef
+   60:10  warning  'ampfng' is defined but never used           no-unused-vars
+   63:9   warning  'drawsine' is not defined                    no-undef
+   66:11  warning  'drawhlfrectifier' is not defined            no-undef
+   66:30  warning  Unnecessary semicolon                        no-extra-semi
+   70:9   warning  'bthdhlfrc' is not defined                   no-undef
+   77:10  warning  'freqfng' is defined but never used          no-unused-vars
+   80:9   warning  'drawsine' is not defined                    no-undef
+   83:11  warning  'drawhlfrectifier' is not defined            no-undef
+   83:30  warning  Unnecessary semicolon                        no-extra-semi
+   87:9   warning  'bthdhlfrc' is not defined                   no-undef
+   96:5   warning  'canvas' is not defined                      no-undef
+   97:17  warning  'canvas' is not defined                      no-undef
+   97:28  warning  'canvas' is not defined                      no-undef
+   99:5   warning  'ctx' is not defined                         no-undef
+   99:11  warning  'canvas' is not defined                      no-undef
+  101:5   warning  'ctx' is not defined                         no-undef
+  102:5   warning  'ctx' is not defined                         no-undef
+  102:24  warning  'canvas' is not defined                      no-undef
+  102:38  warning  'canvas' is not defined                      no-undef
+  103:5   warning  'drawGrid' is not defined                    no-undef
+  103:14  warning  'ctx' is not defined                         no-undef
+  104:5   warning  'drawAxis' is not defined                    no-undef
+  132:9   warning  'i' is already defined                       no-redeclare
+  139:5   warning  'ctx' is not defined                         no-undef
+  140:5   warning  'ctx' is not defined                         no-undef
+  141:5   warning  'ctx' is not defined                         no-undef
+  151:13  warning  'ctx' is not defined                         no-undef
+  153:13  warning  'ctx' is not defined                         no-undef
+  156:5   warning  'ctx' is not defined                         no-undef
+  165:5   warning  'tstop1' is assigned a value but never used  no-unused-vars
+  174:9   warning  'j' is already defined                       no-redeclare
+  174:12  warning  'x0' is already defined                      no-redeclare
+  174:16  warning  'y0' is already defined                      no-redeclare
+  174:20  warning  'xscale' is already defined                  no-redeclare
+  174:28  warning  'yscale' is already defined                  no-redeclare
+  181:5   warning  'ctx' is not defined                         no-undef
+  182:5   warning  'ctx' is not defined                         no-undef
+  183:5   warning  'ctx' is not defined                         no-undef
+  193:13  warning  'ctx' is not defined                         no-undef
+  195:13  warning  'ctx' is not defined                         no-undef
+  198:5   warning  'ctx' is not defined                         no-undef
+  199:5   warning  'ctx' is not defined                         no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/halfwvrecboth_ver2.js
+   13:5   warning  'vmaxs' is defined but never used            no-unused-vars
+   16:10  warning  'posiy1chnge' is defined but never used      no-unused-vars
+   19:9   warning  'drawsine' is not defined                    no-undef
+   25:9   warning  'grndhlfrc' is not defined                   no-undef
+   29:10  warning  'posiy2chnge' is defined but never used      no-unused-vars
+   33:8   warning  'drawhlfrectifier' is not defined            no-undef
+   39:8   warning  'grndhlfrc' is not defined                   no-undef
+   44:10  warning  'posix2chnge' is defined but never used      no-unused-vars
+   47:9   warning  'drawsine' is not defined                    no-undef
+   50:11  warning  'drawhlfrectifier' is not defined            no-undef
+   50:30  warning  Unnecessary semicolon                        no-extra-semi
+   56:9   warning  'grndhlfrc' is not defined                   no-undef
+   60:10  warning  'ampfng' is defined but never used           no-unused-vars
+   63:9   warning  'drawsine' is not defined                    no-undef
+   66:11  warning  'drawhlfrectifier' is not defined            no-undef
+   66:30  warning  Unnecessary semicolon                        no-extra-semi
+   73:9   warning  'grndhlfrc' is not defined                   no-undef
+   77:10  warning  'freqfng' is defined but never used          no-unused-vars
+   80:9   warning  'drawsine' is not defined                    no-undef
+   83:11  warning  'drawhlfrectifier' is not defined            no-undef
+   83:30  warning  Unnecessary semicolon                        no-extra-semi
+   90:9   warning  'grndhlfrc' is not defined                   no-undef
+   96:5   warning  'canvas' is not defined                      no-undef
+   97:17  warning  'canvas' is not defined                      no-undef
+   97:28  warning  'canvas' is not defined                      no-undef
+   99:5   warning  'ctx' is not defined                         no-undef
+   99:11  warning  'canvas' is not defined                      no-undef
+  101:5   warning  'ctx' is not defined                         no-undef
+  102:5   warning  'ctx' is not defined                         no-undef
+  102:24  warning  'canvas' is not defined                      no-undef
+  102:38  warning  'canvas' is not defined                      no-undef
+  103:5   warning  'drawGrid' is not defined                    no-undef
+  103:14  warning  'ctx' is not defined                         no-undef
+  104:5   warning  'drawAxis' is not defined                    no-undef
+  133:9   warning  'i' is already defined                       no-redeclare
+  140:5   warning  'ctx' is not defined                         no-undef
+  141:5   warning  'ctx' is not defined                         no-undef
+  142:5   warning  'ctx' is not defined                         no-undef
+  152:13  warning  'ctx' is not defined                         no-undef
+  154:13  warning  'ctx' is not defined                         no-undef
+  157:5   warning  'ctx' is not defined                         no-undef
+  166:5   warning  'tstop1' is assigned a value but never used  no-unused-vars
+  175:9   warning  'j' is already defined                       no-redeclare
+  175:12  warning  'x0' is already defined                      no-redeclare
+  175:16  warning  'y0' is already defined                      no-redeclare
+  175:20  warning  'xscale' is already defined                  no-redeclare
+  175:28  warning  'yscale' is already defined                  no-redeclare
+  182:5   warning  'ctx' is not defined                         no-undef
+  183:5   warning  'ctx' is not defined                         no-undef
+  184:5   warning  'ctx' is not defined                         no-undef
+  194:13  warning  'ctx' is not defined                         no-undef
+  196:13  warning  'ctx' is not defined                         no-undef
+  199:5   warning  'ctx' is not defined                         no-undef
+  200:5   warning  'ctx' is not defined                         no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/hlfwvoscilloscope_axis_ver2.js
+    8:5   warning  'vmaxs' is assigned a value but never used           no-unused-vars
+   13:10  warning  'mainswt' is defined but never used                  no-unused-vars
+   50:10  warning  'amp1pdiv' is defined but never used                 no-unused-vars
+   56:9   warning  'drawsine' is not defined                            no-undef
+   59:9   warning  'drawhlfrectifier' is not defined                    no-undef
+   63:9   warning  'bthdhlfrc' is not defined                           no-undef
+   66:8   warning  'grndhlfrc' is not defined                           no-undef
+   70:10  warning  'timepdiv' is defined but never used                 no-unused-vars
+   74:9   warning  'drawsine' is not defined                            no-undef
+   77:9   warning  'drawhlfrectifier' is not defined                    no-undef
+   80:9   warning  'bthdhlfrc' is not defined                           no-undef
+   83:8   warning  'grndhlfrc' is not defined                           no-undef
+   95:4   warning  'voltperdiv1' is not defined                         no-undef
+   96:4   warning  'vmaxs1' is not defined                              no-undef
+   96:24  warning  'voltperdiv1' is not defined                         no-undef
+   97:3   warning  'voltperdiv2' is not defined                         no-undef
+   98:3   warning  'vmaxs2' is not defined                              no-undef
+   98:23  warning  'voltperdiv2' is not defined                         no-undef
+  107:48  warning  'vmaxs1' is not defined                              no-undef
+  110:47  warning  'vmaxs2' is not defined                              no-undef
+  113:48  warning  'vmaxs1' is not defined                              no-undef
+  114:48  warning  'vmaxs2' is not defined                              no-undef
+  145:5   warning  'axismargin' is assigned a value but never used      no-unused-vars
+  152:9   warning  'numofvrtcltick' is assigned a value but never used  no-unused-vars
+  157:9   warning  'axislinewidth' is assigned a value but never used   no-unused-vars
+  158:9   warning  'axiscolor' is assigned a value but never used       no-unused-vars
+  227:10  warning  'chnlo' is defined but never used                    no-unused-vars
+  228:1   warning  'drawsine' is not defined                            no-undef
+  231:10  warning  'chnlt' is defined but never used                    no-unused-vars
+  232:2   warning  'drawhlfrectifier' is not defined                    no-undef
+  235:10  warning  'bthd' is defined but never used                     no-unused-vars
+  236:5   warning  'bthdhlfrc' is not defined                           no-undef
+  239:12  warning  'grnds' is defined but never used                    no-unused-vars
+  240:5   warning  'grndhlfrc' is not defined                           no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/hlfwvoscilloscope_knob_ver2.js
+    6:5   warning  'vmaxs' is defined but never used  no-unused-vars
+    7:5   warning  'tmaxs' is defined but never used  no-unused-vars
+    8:1   warning  '$' is not defined                 no-undef
+   11:5   warning  '$' is not defined                 no-undef
+   23:29  warning  'v' is defined but never used      no-unused-vars
+   24:17  warning  'flag' is not defined              no-undef
+   25:17  warning  'drawsine' is not defined          no-undef
+   27:17  warning  'flag' is not defined              no-undef
+   28:18  warning  'drawhlfrectifier' is not defined  no-undef
+   30:10  warning  'flag' is not defined              no-undef
+   31:9   warning  'bthdhlfrc' is not defined         no-undef
+   33:8   warning  'flag' is not defined              no-undef
+   34:8   warning  'grndhlfrc' is not defined         no-undef
+   39:5   warning  '$' is not defined                 no-undef
+   51:29  warning  'v' is defined but never used      no-unused-vars
+   52:17  warning  'flag' is not defined              no-undef
+   53:17  warning  'drawsine' is not defined          no-undef
+   55:16  warning  'flag' is not defined              no-undef
+   56:9   warning  'bthdhlfrc' is not defined         no-undef
+   58:8   warning  'flag' is not defined              no-undef
+   59:8   warning  'grndhlfrc' is not defined         no-undef
+   64:5   warning  '$' is not defined                 no-undef
+   76:29  warning  'v' is defined but never used      no-unused-vars
+   78:17  warning  'flag' is not defined              no-undef
+   79:18  warning  'drawhlfrectifier' is not defined  no-undef
+   82:15  warning  'flag' is not defined              no-undef
+   83:9   warning  'bthdhlfrc' is not defined         no-undef
+   85:8   warning  'flag' is not defined              no-undef
+   86:8   warning  'grndhlfrc' is not defined         no-undef
+   92:5   warning  '$' is not defined                 no-undef
+  104:29  warning  'v' is defined but never used      no-unused-vars
+  105:17  warning  'flag' is not defined              no-undef
+  106:17  warning  'drawsine' is not defined          no-undef
+  108:17  warning  'flag' is not defined              no-undef
+  109:19  warning  'drawhlfrectifier' is not defined  no-undef
+  112:14  warning  'flag' is not defined              no-undef
+  113:9   warning  'bthdhlfrc' is not defined         no-undef
+  115:8   warning  'flag' is not defined              no-undef
+  116:8   warning  'grndhlfrc' is not defined         no-undef
+  122:5   warning  '$' is not defined                 no-undef
+  134:29  warning  'v' is defined but never used      no-unused-vars
+  135:17  warning  'flag' is not defined              no-undef
+  136:17  warning  'drawsine' is not defined          no-undef
+  138:17  warning  'flag' is not defined              no-undef
+  139:19  warning  'drawhlfrectifier' is not defined  no-undef
+  141:15  warning  'flag' is not defined              no-undef
+  142:9   warning  'bthdhlfrc' is not defined         no-undef
+  144:8   warning  'flag' is not defined              no-undef
+  145:8   warning  'grndhlfrc' is not defined         no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/hlfwvoscilloscope_sinewv_ver2.js
+   12:5   warning  'vmaxs' is defined but never used        no-unused-vars
+   17:10  warning  'posiy1chnge' is defined but never used  no-unused-vars
+   25:10  warning  'posix2chnge' is defined but never used  no-unused-vars
+   31:11  warning  'drawhlfrectifier' is not defined        no-undef
+   31:30  warning  Unnecessary semicolon                    no-extra-semi
+   36:10  warning  'ampfng' is defined but never used       no-unused-vars
+   42:11  warning  'drawhlfrectifier' is not defined        no-undef
+   42:30  warning  Unnecessary semicolon                    no-extra-semi
+   45:9   warning  'bthdhlfrc' is not defined               no-undef
+   48:8   warning  'grndhlfrc' is not defined               no-undef
+   53:10  warning  'freqfng' is defined but never used      no-unused-vars
+   59:11  warning  'drawhlfrectifier' is not defined        no-undef
+   59:30  warning  Unnecessary semicolon                    no-extra-semi
+   63:9   warning  'bthdhlfrc' is not defined               no-undef
+   66:8   warning  'grndhlfrc' is not defined               no-undef
+   72:5   warning  'canvas' is not defined                  no-undef
+   73:17  warning  'canvas' is not defined                  no-undef
+   73:28  warning  'canvas' is not defined                  no-undef
+   75:5   warning  'ctx' is not defined                     no-undef
+   75:11  warning  'canvas' is not defined                  no-undef
+   77:5   warning  'ctx' is not defined                     no-undef
+   78:5   warning  'ctx' is not defined                     no-undef
+   78:24  warning  'canvas' is not defined                  no-undef
+   78:38  warning  'canvas' is not defined                  no-undef
+   80:5   warning  'drawGrid' is not defined                no-undef
+   80:14  warning  'ctx' is not defined                     no-undef
+   81:5   warning  'drawAxis' is not defined                no-undef
+  108:9   warning  'i' is already defined                   no-redeclare
+  115:5   warning  'ctx' is not defined                     no-undef
+  116:5   warning  'ctx' is not defined                     no-undef
+  117:5   warning  'ctx' is not defined                     no-undef
+  127:13  warning  'ctx' is not defined                     no-undef
+  129:13  warning  'ctx' is not defined                     no-undef
+  132:5   warning  'ctx' is not defined                     no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/hlfwvpeakcurrent.js
+   7:10  warning  'reschange' is defined but never used    no-unused-vars
+  11:11  warning  'peakcurrent' is defined but never used  no-unused-vars
+  20:1   warning  '$' is not defined                       no-undef
+  21:5   warning  '$' is not defined                       no-undef
+  22:9   warning  '$' is not defined                       no-undef
+  23:24  warning  '$' is not defined                       no-undef
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/jquery.knob.min.js
+    2:41  warning  'define' is not defined                   no-undef
+    3:9   warning  'define' is not defined                   no-undef
+    5:11  warning  'jQuery' is not defined                   no-undef
+   94:17  warning  'G_vmlCanvasManager' is not defined       no-undef
+  181:44  warning  'e' is defined but never used             no-unused-vars
+  232:32  warning  'this.$c[0].width' is assigned to itself  no-self-assign
+  244:33  warning  'e' is defined but never used             no-unused-vars
+  246:30  warning  'e' is defined but never used             no-unused-vars
+  248:33  warning  'e' is defined but never used             no-unused-vars
+  248:36  warning  't' is defined but never used             no-unused-vars
+  348:40  warning  'e' is defined but never used             no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/jsplumb1.js
+     68:9   warning  'root' is assigned a value but never used                                  no-unused-vars
+    130:18  warning  'i' is already defined                                                     no-redeclare
+    184:18  warning  'i' is already defined                                                     no-redeclare
+    242:22  warning  'j' is already defined                                                     no-redeclare
+    264:56  warning  't' is defined but never used                                              no-unused-vars
+    279:26  warning  'j' is already defined                                                     no-redeclare
+    582:9   warning  'exports' is not defined                                                   no-undef
+    616:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    626:9   warning  'exports' is not defined                                                   no-undef
+    661:9   warning  '_normal' is assigned a value but never used                               no-unused-vars
+    672:9   warning  '_lineLength' is assigned a value but never used                           no-unused-vars
+    706:9   warning  '_theta' is assigned a value but never used                                no-unused-vars
+    725:9   warning  '_intersects' is assigned a value but never used                           no-unused-vars
+    747:9   warning  '_encloses' is assigned a value but never used                             no-unused-vars
+    764:9   warning  '_pointOnLine' is assigned a value but never used                          no-unused-vars
+    781:9   warning  '_perpendicularLineTo' is assigned a value but never used                  no-unused-vars
+    789:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    846:28  warning  'view' is defined but never used                                           no-unused-vars
+    846:34  warning  'target' is defined but never used                                         no-unused-vars
+    846:42  warning  'pageX' is defined but never used                                          no-unused-vars
+    846:49  warning  'pageY' is defined but never used                                          no-unused-vars
+    846:56  warning  'screenX' is defined but never used                                        no-unused-vars
+    846:65  warning  'screenY' is defined but never used                                        no-unused-vars
+    846:74  warning  'clientX' is defined but never used                                        no-unused-vars
+    846:83  warning  'clientY' is defined but never used                                        no-unused-vars
+   1040:58  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1082:39  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1132:9   warning  'touchstart' is assigned a value but never used                            no-unused-vars
+   1132:36  warning  'touchend' is assigned a value but never used                              no-unused-vars
+   1132:59  warning  'touchmove' is assigned a value but never used                             no-unused-vars
+   1137:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1223:73  warning  Invalid typeof comparison value                                            valid-typeof
+   1286:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1288:51  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1310:29  warning  'el' is defined but never used                                             no-unused-vars
+   1310:33  warning  'event' is defined but never used                                          no-unused-vars
+   1310:40  warning  'children' is defined but never used                                       no-unused-vars
+   1310:50  warning  'fn' is defined but never used                                             no-unused-vars
+   1457:9   warning  'exports' is not defined                                                   no-undef
+   1490:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   1595:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1719:42  warning  'scope' is defined but never used                                          no-unused-vars
+   1727:13  warning  'scroll' is assigned a value but never used                                no-unused-vars
+   1875:13  warning  '_addFilter' is assigned a value but never used                            no-unused-vars
+   1876:13  warning  '_removeFilter' is assigned a value but never used                         no-unused-vars
+   2091:31  warning  Empty block statement                                                      no-empty
+   2280:42  warning  'scope' is defined but never used                                          no-unused-vars
+   2300:56  warning  'drag' is defined but never used                                           no-unused-vars
+   2388:13  warning  '_getMatchingDroppables' is assigned a value but never used                no-unused-vars
+   2432:18  warning  'i' is already defined                                                     no-redeclare
+   2754:40  warning  'spec' is defined but never used                                           no-unused-vars
+   2777:38  warning  'spec' is defined but never used                                           no-unused-vars
+   2862:9   warning  'exports' is not defined                                                   no-undef
+   2874:42  warning  'exports' is not defined                                                   no-undef
+   2915:19  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3011:26  warning  Unnecessary escape character: \.                                           no-useless-escape
+   3012:40  warning  Unnecessary escape character: \[                                           no-useless-escape
+   3180:36  warning  '_protoFn' is defined but never used                                       no-unused-vars
+   3188:45  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3188:83  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3201:41  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3201:79  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3242:42  warning  Empty block statement                                                      no-empty
+   3320:23  warning  Empty block statement                                                      no-empty
+   3488:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   3553:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3585:9   warning  'eventFilters' is assigned a value but never used                          no-unused-vars
+   3604:9   warning  '_each' is assigned a value but never used                                 no-unused-vars
+   4583:13  warning  '_setDraggable' is assigned a value but never used                         no-unused-vars
+   4807:56  warning  'args' is defined but never used                                           no-unused-vars
+   4855:60  warning  'cEl' is assigned a value but never used                                   no-unused-vars
+   5481:13  warning  '_unmanage' is assigned a value but never used                             no-unused-vars
+   5576:68  warning  'jsPlumbInstance' is assigned a value but never used                       no-unused-vars
+   6146:39  warning  'scope' is defined but never used                                          no-unused-vars
+   6751:9   warning  'exports' is not defined                                                   no-undef
+   6766:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   6882:36  warning  'ignoreAttachedElements' is defined but never used                         no-unused-vars
+   7059:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7304:41  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7309:50  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7374:53  warning  'fireEvent' is defined but never used                                      no-unused-vars
+   7374:64  warning  'originalEvent' is defined but never used                                  no-unused-vars
+   7488:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7534:39  warning  'startParams' is defined but never used                                    no-unused-vars
+   8111:17  warning  'elId' is assigned a value but never used                                  no-unused-vars
+   8348:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   8865:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   8889:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   8901:21  warning  'jsPlumb' is not defined                                                   no-undef
+   8984:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   9709:27  warning  'Biltong' is not defined                                                   no-undef
+  10061:23  warning  'jsPlumbUtil' is not defined                                               no-undef
+  10293:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10323:53  warning  'x' is defined but never used                                              no-unused-vars
+  10323:56  warning  'y' is defined but never used                                              no-unused-vars
+  10350:46  warning  'x1' is defined but never used                                             no-unused-vars
+  10350:50  warning  'y1' is defined but never used                                             no-unused-vars
+  10350:54  warning  'x2' is defined but never used                                             no-unused-vars
+  10350:58  warning  'y2' is defined but never used                                             no-unused-vars
+  10383:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10441:46  warning  '_' is defined but never used                                              no-unused-vars
+  10643:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10789:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11112:13  warning  'dumpSegmentsToConsole' is assigned a value but never used                 no-unused-vars
+  11168:48  warning  'anchorPoint' is defined but never used                                    no-unused-vars
+  11168:61  warning  'orientation' is defined but never used                                    no-unused-vars
+  11168:74  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11168:89  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11201:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11207:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11228:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11233:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11244:40  warning  'params' is defined but never used                                         no-unused-vars
+  11322:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11322:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11322:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11348:40  warning  'd' is defined but never used                                              no-unused-vars
+  11348:43  warning  'style' is defined but never used                                          no-unused-vars
+  11348:50  warning  'anchor' is defined but never used                                         no-unused-vars
+  11391:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11394:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11394:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11394:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11410:32  warning  'style' is defined but never used                                          no-unused-vars
+  11410:39  warning  'anchor' is defined but never used                                         no-unused-vars
+  11443:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11472:27  warning  'instance' is defined but never used                                       no-unused-vars
+  11472:37  warning  'component' is defined but never used                                      no-unused-vars
+  11541:43  warning  'component' is defined but never used                                      no-unused-vars
+  11705:17  warning  'jsPlumb' is not defined                                                   no-undef
+  11812:37  warning  'component' is defined but never used                                      no-unused-vars
+  11822:29  warning  'containerExtents' is defined but never used                               no-unused-vars
+  11850:37  warning  'params' is defined but never used                                         no-unused-vars
+  11863:42  warning  'currentConnectionPaintStyle' is defined but never used                    no-unused-vars
+  11907:13  warning  'labelWidth' is assigned a value but never used                            no-unused-vars
+  11907:32  warning  'labelHeight' is assigned a value but never used                           no-unused-vars
+  11907:52  warning  'labelText' is assigned a value but never used                             no-unused-vars
+  11907:70  warning  'labelPadding' is assigned a value but never used                          no-unused-vars
+  11997:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12441:35  warning  'conn' is defined but never used                                           no-unused-vars
+  12441:41  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  12445:37  warning  'conn' is defined but never used                                           no-unused-vars
+  12445:43  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  12453:56  warning  'jsPlumb' is not defined                                                   no-undef
+  12489:38  warning  '_el' is defined but never used                                            no-unused-vars
+  12489:43  warning  'targetGroup' is defined but never used                                    no-unused-vars
+  12539:25  warning  'jsPlumbUtil' is not defined                                               no-undef
+  12883:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12899:41  warning  'lastOrientation' is assigned a value but never used                       no-unused-vars
+  12903:13  warning  'loopbackRadius' is assigned a value but never used                        no-unused-vars
+  12904:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13248:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13257:13  warning  'curviness' is assigned a value but never used                             no-unused-vars
+  13259:13  warning  'proximityLimit' is assigned a value but never used                        no-unused-vars
+  13262:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13401:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13496:13  warning  'clockwise' is assigned a value but never used                             no-unused-vars
+  13596:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13603:30  warning  'params' is defined but never used                                         no-unused-vars
+  13607:46  warning  '_' is defined but never used                                              no-unused-vars
+  13628:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14033:35  warning  'style' is defined but never used                                          no-unused-vars
+  14056:35  warning  'style' is defined but never used                                          no-unused-vars
+  14092:13  warning  'self' is assigned a value but never used                                  no-unused-vars
+  14251:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14444:39  warning  'jsPlumb' is not defined                                                   no-undef
+  14473:29  warning  'jsPlumb' is not defined                                                   no-undef
+  14480:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14481:39  warning  'jsPlumb' is not defined                                                   no-undef
+  14548:40  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14639:22  warning  'jsPlumb' is not defined                                                   no-undef
+  14644:24  warning  'jsPlumb' is not defined                                                   no-undef
+  14770:26  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14783:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14788:18  warning  'jsPlumb' is not defined                                                   no-undef
+  14797:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14802:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14803:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14805:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14809:13  warning  'jsPlumb' is not defined                                                   no-undef
+  14815:17  warning  'jsPlumb' is not defined                                                   no-undef
+  14853:18  warning  'jsPlumb' is not defined                                                   no-undef
+  14901:22  warning  'jsPlumb' is not defined                                                   no-undef
+  14982:20  warning  'jsPlumb' is not defined                                                   no-undef
+  14996:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15008:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15011:25  warning  'jsPlumb' is not defined                                                   no-undef
+  15013:35  warning  'jsPlumb' is not defined                                                   no-undef
+  15014:30  warning  'jsPlumb' is not defined                                                   no-undef
+  15015:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15016:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15017:46  warning  'jsPlumb' is not defined                                                   no-undef
+  15133:36  warning  'el' is defined but never used                                             no-unused-vars
+  15133:40  warning  'options' is defined but never used                                        no-unused-vars
+  15136:36  warning  'el' is defined but never used                                             no-unused-vars
+  15136:40  warning  'options' is defined but never used                                        no-unused-vars
+  15152:45  warning  'zoom' is defined but never used                                           no-unused-vars
+  15192:33  warning  'spec' is defined but never used                                           no-unused-vars
+  15201:31  warning  'spec' is defined but never used                                           no-unused-vars
+  15210:38  warning  'posseId' is defined but never used                                        no-unused-vars
+  15263:23  warning  'el' is defined but never used                                             no-unused-vars
+  15263:27  warning  'event' is defined but never used                                          no-unused-vars
+  15263:34  warning  'callback' is defined but never used                                       no-unused-vars
+  15272:24  warning  'el' is defined but never used                                             no-unused-vars
+  15272:28  warning  'event' is defined but never used                                          no-unused-vars
+  15272:35  warning  'callback' is defined but never used                                       no-unused-vars
+
+/home/runner/work/exp-half-wave-rectification-iitkgp/exp-half-wave-rectification-iitkgp/experiment/simulation/js/virtualc.js
+  35:10  warning  'v' is defined but never used         no-unused-vars
+  41:10  warning  'Root' is defined but never used      no-unused-vars
+  53:10  warning  'Power' is defined but never used     no-unused-vars
+  65:10  warning  'TrigFunc' is defined but never used  no-unused-vars
+  79:10  warning  'eqls' is defined but never used      no-unused-vars
+  91:10  warning  'calcul' is defined but never used    no-unused-vars
+  97:10  warning  'ok' is defined but never used        no-unused-vars
+
+✖ 626 problems (0 errors, 626 warnings)
+  0 errors and 26 warnings potentially fixable with the `--fix` option.
+

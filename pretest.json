@@ -1,0 +1,25 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the Ripple factor of a half wave rectifier?",
+        "answers": {
+          "a": "0.31",
+          "b": "0.48",
+          "c": "0.707",
+          "d": "1.21"
+          
+        },
+       
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+      
+          
+       
+       
+      
+
+    ]
+  }
+  
